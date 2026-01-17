@@ -21,24 +21,18 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+
 import khamsat from "./company/khamsat.png";
-// import starbucks from "./company/starbucks.png";
 import baeed from "./company/baeed.png";
 import royal from "./company/royal.png";
 import masar from "./company/masar.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 import medpash from "./medpash.png";
 import pashmedical from "./pashmedical.png";
 import voltforge from "./voltforge.png";
 import techwave from "./techwave.png";
 import habib from "./habib.png";
+import kayanpcc from "./kayanpcc.png";
 
 export {
   logo,
@@ -62,19 +56,14 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
   khamsat,
   baeed,
   royal,
   masar,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
   medpash,
   pashmedical,
   voltforge,
   techwave,
   habib,
+  kayanpcc,
 };
